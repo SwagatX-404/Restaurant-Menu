@@ -3,7 +3,6 @@
 
 **Objective: Design a menu for a restaurant.**
 - Instructions:
-
     Create an HTML file named menu.html.
     Use <header>, <section>, and <footer> to organize the page.
     Create a <section> for each type of dish (e.g., Appetizers, Main Courses, Desserts) with appropriate headings (<h2>) and a list of menu items.
